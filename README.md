@@ -1,7 +1,7 @@
 # Monty's CAD
 
 This is a project to describe a language called _Monty's CAD_ used to make CAD scripts. The programming style is functional and
-based on constructive solid geometry (wikipedia.org/wiki/Constructive_solid_geometry). This repository is only about the language
+based on [constructive solid geometry](wikipedia.org/wiki/Constructive_solid_geometry). This repository is only about the language
 itself and not about implementations. At this moment there is only one implementation based on FreeCAD. 
 
 

@@ -27,3 +27,11 @@ cube(20, center = True)
 ```
 
 ![alt text](https://github.com/RubenRubens/Montys-CAD/blob/master/Images/3D%20primitives/cube%20center.PNG)
+
+__Cube with sides of diferent lenght__
+
+```python
+cube([65, 30, 10])
+```
+
+![alt text]()
