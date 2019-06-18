@@ -1,6 +1,7 @@
 # Description of the Monty's CAD Language
 
-  
+<br/><br/>
+
 ## 3 dimensional primitives
 
 ### Cube
@@ -115,6 +116,8 @@ cone(h = 30, r1 = 25, r2 = 18)
 ```
 
 ![img](Images/3D_primitives/cone2.PNG)
+
+<br/><br/>
 
 ## Rotation and translation
 
