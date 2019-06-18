@@ -21,7 +21,7 @@ __First octant cube__
 cube(20)
 ```
 
-![alt text](https://github.com/RubenRubens/Montys-CAD/blob/master/Images/3D%20primitives/cube%20first%20octant.PNG)
+![img](Images/3D_primitives/cube%first%octant.PNG)
 
 __Centered cube__
 
