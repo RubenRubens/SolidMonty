@@ -85,7 +85,7 @@ cylinder(r = 23, h = 12)
 cylinder(d = 46, h = 12)
 ```
 
-![img](Images/3D primitives/cylinder.PNG)
+![img](Images/3D-primitives/cylinder.PNG)
 
 In order to center the cylinder we have to set `center = True`.
 
