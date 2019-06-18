@@ -100,7 +100,7 @@ cone(h, r1, r2 = 0, center = False)
 ```
 
 Creates a cone of height `h`, radius `r1` that can be centered with `center = True`.
-An optional radius `r2` can be given in order to make a cuted cone.
+An optional radius `r2` can be given in order to make a cone with a cut at the top.
 
 #### Examples
 
@@ -149,7 +149,7 @@ A = translate([10, 0, 0]) (cube(3))
 rotation(axis = "Z", angle = 60) (A)
 ```
 
-![alt text]()
+![obj](Images/Rotation%20and%20translation/rotation%20around%20the%20origin%20II.stl)
 
 __Rotation around an arbitrary point__
 
