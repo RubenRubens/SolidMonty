@@ -21,7 +21,7 @@ __First octant cube__
 cube(20)
 ```
 
-![img](Images/3D_primitives/cube%first%octant.PNG)
+![img](Images/3D_primitives/cube%20first%20octant.PNG)
 
 __Centered cube__
 
@@ -29,7 +29,7 @@ __Centered cube__
 cube(20, center = True)
 ```
 
-![alt text](https://github.com/RubenRubens/Montys-CAD/blob/master/Images/3D%20primitives/cube%20center.PNG)
+![img](Images/3D_primitives/cube%20center.PNG)
 
 __Cube with sides of diferent lenght__
 
@@ -37,7 +37,7 @@ __Cube with sides of diferent lenght__
 cube([65, 30, 10])
 ```
 
-![alt text](https://github.com/RubenRubens/Montys-CAD/blob/master/Images/3D%20primitives/diferent%20sides%20cube.PNG)
+![img](Images/3D_primitives/diferent%20sides%20cube.PNG)
 
 ### Sphere
 
@@ -62,7 +62,7 @@ sphere(6)
 sphere(d = 12)
 ```
 
-![alt text]()
+![img]()
 
 ### Cylinder
 
@@ -108,13 +108,13 @@ An optional radius `r2` can be given in order to make a cuted cone.
 cone(h = 30, r1 = 25)
 ```
 
-![alt text]()
+![img](Images/3D_primitives/cone1.PNG)
 
 ```python
 cone(h = 30, r1 = 25, r2 = 18)
 ```
 
-![alt text]()
+![img](Images/3D_primitives/cone2.PNG)
 
 ## Rotation and translation
 
@@ -140,7 +140,7 @@ __Rotation around the origin I__
 rotation(axis = "Z", angle = 60) (cube(3))
 ```
 
-![alt text]()
+![img](Images/Rotation%20and%20translation/rotation%20around%20the%20origin%20I.PNG)
 
 __Rotation around the origin II__
 
