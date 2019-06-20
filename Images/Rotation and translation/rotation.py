@@ -1,11 +1,11 @@
 from Montys_FreeCAD import *
 
-a = rotate(axis = "Z", angle = 90) (cube(1))
-export(name = "rotation around the origin I") (a)
+A = rotate(axis = "Z", angle = 90) (cube(4))
+export(name = "rotation around the origin I") (A)
 
-a = translate([10, 0, 0]) (cube(1))
-b = rotate(axis = "Z", angle = 90) (a)
-export(name = "rotation around the origin II") (a + b)
+A = translate([10, 0, 0]) (cube(4))
+B = rotate(axis = "Z", angle = 90) (A)
+export(name = "rotation around the origin II") (A + B)
 
-a = rotate(axis = "Z", angle = 60, axis_pos = [10, 0, 0]) (a)
-export(name = "rotation around an arbitrary point") (a)
+B = rotate(axis = "Z", angle = 60, axis_pos = [10, 0, 0]) (A)
+export(name = "rotation around an arbitrary point") (B)
