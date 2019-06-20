@@ -1,12 +1,5 @@
 # Description of the Monty's CAD Language
 
-+ [3D primitives](https://github.com/RubenRubens/Montys-CAD#3d-primitives)
-+ [Boolean operations](https://github.com/RubenRubens/Montys-CAD#boolean-operations)
-+ [Rotation and translation](https://github.com/RubenRubens/Montys-CAD#rotation-and-translation)
-+ [2D primitives](https://github.com/RubenRubens/Montys-CAD#2d-primitives)
-+ [Creating 2D objects out of 3D objects](https://github.com/RubenRubens/Montys-CAD#creating-2d-objects-out-of-3d-objects)
-+ [Export the geometry](https://github.com/RubenRubens/Montys-CAD#export-the-geometry)
-
 ## 3D primitives
 
 ### Cube
