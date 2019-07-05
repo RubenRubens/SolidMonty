@@ -138,7 +138,7 @@ obj1 + obj2
 cube([5, 5, 1]) + cone(h = 2, r1 = 5, r2 = 4)
 ```
 
-![img]()
+![img](Images/Boolean_operations/union.png)
 
 ### Intersection
 
@@ -158,7 +158,7 @@ obj1 * obj2
 cube(20) * sphere(20)
 ```
 
-![img]()
+![img](Images/Boolean_operations/intersection.png)
 
 ### Differenece
 
@@ -178,7 +178,7 @@ obj1 - obj2
 cube(30, center = True) - sphere(d = 34)
 ```
 
-![img]()
+![img](Images/Boolean_operations/difference.png)
 
 <br/><br/>
 
@@ -430,17 +430,17 @@ sweep(A, path)
 
 <br/><br/>
 
-## Exporting the geometry
+## Export the geometry
 
 ```python
 export(frmt = "stl", name = "X", dir = "cwd") (obj)
 ```
 
 Exports the 3D or 2D geometry of an object. The available file formats depends
-on the Montys CAD Builder.
+on the SolidMonty Builder.
 
 Where:
 + `frmt` is the format (`"step"`, `"iges"`, `"stl"`, etc).
 + `name` is the name of the file.
-+ `dir` is the directory to export the file. By default it is the current working directory. Folders must be seperated with `/` (for example, `dir = c/Users/User/Documents`).
++ `dir` is the directory to export the file. By default it is the current working directory. Folders must be seperated with `/` (for example, `dir = c:/Users/User/Documents`).
 + `obj`  is the object to export.

@@ -1,4 +1,4 @@
-# Solid Monty
+![img](Propaganda/agrp_promo2.png)
 
 This is a project to describe a language called _Solid Monty_ used to make CAD scripts. The programming style is functional and
 based on [constructive solid geometry](wikipedia.org/wiki/Constructive_solid_geometry). This repository is only about the language
