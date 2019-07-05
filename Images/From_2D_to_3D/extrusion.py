@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 a = extrude(h = 20) (circle(r = 50))
 

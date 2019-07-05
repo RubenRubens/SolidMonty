@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 A = translate([0, 0, 10]) (cylinder(4, 3))
 

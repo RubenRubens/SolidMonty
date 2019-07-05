@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 a = cone(h = 30, r1 = 25)
 export_STL(a, "cone1")

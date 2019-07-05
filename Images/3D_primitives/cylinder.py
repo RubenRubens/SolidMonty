@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 a = cylinder(r = 23, h = 12)
 export_STL(a, "cylinder")

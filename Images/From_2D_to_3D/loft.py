@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 A = circle(9)
 B = translate([0, 1, 10]) (circle(13))

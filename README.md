@@ -1,13 +1,13 @@
-# Monty's CAD
+# Solid Monty
 
-This is a project to describe a language called _Monty's CAD_ used to make CAD scripts. The programming style is functional and
+This is a project to describe a language called _Solid Monty_ used to make CAD scripts. The programming style is functional and
 based on [constructive solid geometry](wikipedia.org/wiki/Constructive_solid_geometry). This repository is only about the language
 itself and not about implementations. At this moment there is only one implementation based on FreeCAD. 
 
 
-## Monty's CAD Builders
+## SolidMonty Builders
 
-In order to run Monthy's CAD scripts you will need to intall a builder (this is, an implemantation of Monty's CAD language).
+In order to run SolidMonthy scripts you will need to install a builder (this is, an implemantation of the Solid Monty language).
 
 + __FreeCAD Builder__
 

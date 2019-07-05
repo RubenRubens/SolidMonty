@@ -1,4 +1,4 @@
-# Description of the Monty's CAD Language
+# Description of the Solid Monty Language
 
 ## 3D primitives
 

@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 A = rotate(axis = "Z", angle = 90) (cube(4))
 export(name = "rotation around the origin I") (A)

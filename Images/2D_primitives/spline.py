@@ -1,4 +1,4 @@
-from Montys_FreeCAD import *
+from SolidMonty_FreeCAD import *
 
 # Open
 spline([[0, 0], [3, 1], [5, 9]], closed = False)
